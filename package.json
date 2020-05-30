@@ -4,7 +4,7 @@
   "description": "Elektron app by fybwid",
   "main": "main.js",
   "scripts": {
-    "start": "elektron .",
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
